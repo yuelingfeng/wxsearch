@@ -13,7 +13,9 @@
 venv-flask
 
 migrations
-
+.git
+*.pyproj
+*.pyproj.user
 obj
 *.sln
 .vs/
