@@ -13,6 +13,7 @@ venv-flask
 migrations
 obj
 *.sln
+.vs
 __pycache__
 # Build results	
 [Dd]ebug/
