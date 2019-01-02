@@ -9,8 +9,12 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-
-# Build results
+venv-flask
+migrations
+obj
+*.sln
+__pycache__
+# Build results	
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
